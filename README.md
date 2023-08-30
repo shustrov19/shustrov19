@@ -7,7 +7,7 @@
 
 - 📫 How to reach me:
   * Email: **shustrov19@gmail.com**
-  * Telegram: **@Shustrov19**
+  * Telegram: [**@Shustrov19**](https://t.me/Shustrov19)
 
 <p align="left">
 </p>
