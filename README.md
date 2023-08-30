@@ -1,9 +1,9 @@
-![download](https://github.com/shustrov19/shustrov19/assets/90870264/726aa3f6-470d-4c67-88e4-ae41b0b86a6a)
+![download](https://github.com/shustrov19/shustrov19/assets/90870264/249fb598-b23b-4fa1-a1e1-2d32ef810c51)
 
 
 - 🌱 I’m currently learning **Django, DRF, SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shustrov19?tab=repositories&q=&type=public&language=&sort=](https://github.com/shustrov19?tab=repositories&q=&type=public&language=&sort=)
+- 👨‍💻 All of my projects are available at [repositories](https://github.com/shustrov19?tab=repositories&q=&type=public&language=&sort=)
 
 - 📫 How to reach me:
   * Email: **shustrov19@gmail.com**
