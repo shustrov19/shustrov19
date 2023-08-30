@@ -1,4 +1,5 @@
-### Hi there 👋
+![download](https://github.com/shustrov19/shustrov19/assets/90870264/726aa3f6-470d-4c67-88e4-ae41b0b86a6a)
+
 
 <!--
 **shustrov19/shustrov19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
