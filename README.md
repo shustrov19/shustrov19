@@ -1,5 +1,5 @@
 ![download](https://github.com/shustrov19/shustrov19/assets/90870264/4db48633-2dea-45ad-a2f6-9bd315553a76)
-<img align="right" width="500" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471bdwpvaiuualgl776bjp93sstc01mmrw9ksma8j1&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+<img align="right" width="450" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471bdwpvaiuualgl776bjp93sstc01mmrw9ksma8j1&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 - ⚡ I’m Python Backend Developer and I like it!=)
 
 - 🌱 I’m currently learning **Django, Django REST Framework, SQL**
