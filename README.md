@@ -1,5 +1,5 @@
 ![download](https://github.com/shustrov19/shustrov19/assets/90870264/249fb598-b23b-4fa1-a1e1-2d32ef810c51)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shustrov19&label=Profile%20views&color=0e75b6&style=flat" alt="shustrov19" /> </p>
 
 - 🌱 I’m currently learning **Django, DRF, SQL**
 
