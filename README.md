@@ -1,4 +1,6 @@
-![download](https://github.com/shustrov19/shustrov19/assets/90870264/249fb598-b23b-4fa1-a1e1-2d32ef810c51)
+![download](https://github.com/shustrov19/shustrov19/assets/90870264/1281cb66-bc21-4198-8cea-036580348b06)
+
+- ⚡ I’m Python Backend Developer and I like it!=)
 
 - 🌱 I’m currently learning **Django, Django REST Framework, SQL**
 
