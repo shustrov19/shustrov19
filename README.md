@@ -2,7 +2,7 @@
 <img align="right" width="450" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471bdwpvaiuualgl776bjp93sstc01mmrw9ksma8j1&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 - ⚡ I’m Python Backend Developer and I like it!=)
 
-- 🌱 I’m currently learning **Django, Django REST Framework, SQL**
+- 🌱 I’m currently learning **Django, DRF, SQL**
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/shustrov19?tab=repositories&q=&type=public&language=&sort=)
 
